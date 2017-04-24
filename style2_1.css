@@ -1,0 +1,51 @@
+.img{
+	width: 320px;
+}
+
+#topdiv{
+	height: 85px;
+	text-align: left;
+	background-color: #e87a27;
+	color: white;
+}
+
+#toph1{
+	font-family: "Lobster", cursive;
+	margin-top: 10px;
+	margin-bottom: 1px;
+}
+
+#toph3{
+	font-family: "Lobster Two", cursive;
+	margin-top: 1px;
+	margin-bottom: 20px;
+}
+#imgbarra{
+	padding-bottom: 20px;
+}
+
+.titulo{
+	text-align: center;
+}
+.autor{
+	text-align: justify;
+}
+.resumo{
+	text-align: justify;
+}
+.link{
+	text-align: center;
+	display: block; 
+}
+.btngreen{
+	background-color: green;
+}
+.btnred{
+	background-color: #a80000;
+}
+.btnfont{
+	color: white;
+}
+span.glyphicon-star-empty:hover{
+	color:  #f7d82c;
+}
